@@ -2,7 +2,7 @@
 
 [![Github Actions Status](https://github.com/github_username/jupyterlite-ruby-kernel/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlite-ruby-kernel/actions/workflows/build.yml)
 
-JupyterLite Ruby Kernel Extension 
+JupyterLite Ruby Kernel Extension
 
 ## Try it in your browser
 
